@@ -4,7 +4,7 @@ Data of "Unpacking China’s Wolf Warrior Diplomacy"
 ## Summary
 This repository offers a Wolf Warrior Diplomacy (WWD) index derived from textual data based on Lim, Ito, and Zhang (2024).
 
-Data download (Monthly and Quarterly): [Excel](https://github.com/ASEIITO/xiepu/raw/main/wwd_data_20240821version.xlsx)
+Estimated data download (version of August 21st, 2024): [Excel](https://github.com/ASEIITO/xiepu/raw/main/wwd_data_20240821version.xlsx)
 
 ## Reference  
 
