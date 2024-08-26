@@ -10,9 +10,10 @@ Estimated data download (version of August 21st, 2024): [Excel](https://github.c
 The measurement based on sentiment analysis was conducted using a dictionary-based approach as outlined by Wang and Ku (2016). The measurement using the latent semantic scaling (LSS) method employed seed words from Brazys, Dukalskis, and Müller (2023). For details on LSS itself, please refer to Watanabe (2021).
 
 ## Graph
-
+### Sentiment score
 ![Rplot_1_sentiment](https://github.com/user-attachments/assets/aface89e-e6d6-4aa9-ba8d-d8c0049003da)
 
+### LSS score
 ![Rplot_2_lss](https://github.com/user-attachments/assets/84686208-0bfb-4e91-a123-75ead3d2a839)
 
 
