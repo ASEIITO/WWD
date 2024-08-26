@@ -18,10 +18,10 @@ The measurement based on sentiment analysis was conducted using a dictionary-bas
 
 
 ## Reference  
-Brazys, Samuels, Alexander Dukalskis and Stefan Müller (2023) ‘Leader of the Pack? Changes in ‘Wolf Warrior Diplomacy’ after a Politburo Collective Study Session’, The China Quarterly 254, pp. 484-493
-Lim, Jeahwan, Asei Ito, and Hongyong Zhang (2024) "Unpacking China’s Wolf Warrior Diplomacy: Patterns, Drivers, and Implications", mimeo. 
-Wang, Shi-Ming, and Lun-Wei Ku (2016) ‘ANTUSD: A large Chinese Sentiment Dictionary’, In Proceedings of the Tenth International Conference on Language Resources and Evaluation (LREC'16), (2016), pp. 2697-2702.
-Watanabe, Kohei (2021) ‘Latent semantic scaling: A Semisupervised Text Analysis Technique for New Domains and Languages’, Communication Methods and Measures 15(2), pp. 81-102.
+Brazys, Samuels, Alexander Dukalskis and Stefan Müller (2023) ‘Leader of the Pack? Changes in ‘Wolf Warrior Diplomacy’ after a Politburo Collective Study Session’, The China Quarterly 254, pp. 484-493.  
+Lim, Jeahwan, Asei Ito, and Hongyong Zhang (2024) "Unpacking China’s Wolf Warrior Diplomacy: Patterns, Drivers, and Implications", mimeo.   
+Wang, Shi-Ming, and Lun-Wei Ku (2016) ‘ANTUSD: A large Chinese Sentiment Dictionary’, In Proceedings of the Tenth International Conference on Language Resources and Evaluation (LREC'16), (2016), pp. 2697-2702.  
+Watanabe, Kohei (2021) ‘Latent semantic scaling: A Semisupervised Text Analysis Technique for New Domains and Languages’, Communication Methods and Measures 15(2), pp. 81-102.  
 
 ## How to cite
 Please cite as follows:
