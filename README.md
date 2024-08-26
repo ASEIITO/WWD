@@ -7,9 +7,7 @@ This repository offers a Wolf Warrior Diplomacy (WWD) index derived from textual
 Estimated data download (version of August 21st, 2024): [Excel](https://github.com/ASEIITO/WWD/raw/main/wwd_data_20240821version.xlsx)
 
 ## Method
-Sentiment analysis: Wang and Ku (2016) 
-
-LSS method: Brazys, Dukalskis and Müller (2023) 
+The measurement based on sentiment analysis was conducted using a dictionary-based approach as outlined by Wang and Ku (2016). The measurement using the latent semantic scaling (LSS) method employed seed words from Brazys, Dukalskis, and Müller (2023). For details on LSS itself, please refer to Watanabe (2021).
 
 ## Graph
 
@@ -22,7 +20,7 @@ LSS method: Brazys, Dukalskis and Müller (2023)
 Brazys, Samuels, Alexander Dukalskis and Stefan Müller (2023) ‘Leader of the Pack? Changes in ‘Wolf Warrior Diplomacy’ after a Politburo Collective Study Session’, The China Quarterly 254, pp. 484-493
 Lim, Jeahwan, Asei Ito, and Hongyong Zhang (2024) "Unpacking China’s Wolf Warrior Diplomacy: Patterns, Drivers, and Implications", mimeo. 
 Wang, Shi-Ming, and Lun-Wei Ku (2016) ‘ANTUSD: A large Chinese Sentiment Dictionary’, In Proceedings of the Tenth International Conference on Language Resources and Evaluation (LREC'16), (2016), pp. 2697-2702.
-Kohei Watanabe, ‘Latent semantic scaling: A Semisupervised Text Analysis Technique for New Domains and Languages’, Communication Methods and Measures 15(2), (2021), pp. 81-102.
+Watanabe, Kohei (2021) ‘Latent semantic scaling: A Semisupervised Text Analysis Technique for New Domains and Languages’, Communication Methods and Measures 15(2), pp. 81-102.
 
 ## How to cite
 Please cite as follows:
