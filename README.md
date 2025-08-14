@@ -2,7 +2,7 @@
 Data of "Unpacking China’s Wolf Warrior Diplomacy"
 
 ## Summary
-This repository offers a Wolf Warrior Diplomacy (WWD) index derived from textual data based on Lim, Ito, and Zhang (2024).
+This repository offers a Wolf Warrior Diplomacy (WWD) index derived from textual data based on Lim, Ito, and Zhang (2025).
 
 Estimated data download (version of August 21st, 2024): [Excel](https://github.com/ASEIITO/WWD/raw/main/wwd_data_20240821version.xlsx)
 
@@ -26,7 +26,7 @@ Watanabe, Kohei (2021) ‘Latent semantic scaling: A Semisupervised Text Analysi
 ## How to cite
 Please cite as follows:
 ```
-Lim, Jeahwan, Asei Ito, and Hongyong Zhang (2024) "Unpacking China’s Wolf Warrior Diplomacy: Patterns, Drivers, and Implications", mimeo. 
+Lim, Jeahwan, Asei Ito, and Hongyong Zhang (2025) "Unpacking China’s Wolf Warrior Diplomacy: A Text-as-data approach", Journal of Contemporary China. 
 ```
 
 ## Contact
